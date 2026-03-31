@@ -1,6 +1,6 @@
 ## hallo saya sihab 👋
 
-![sihab28](img/sihabpantai.jpg)
+![sihab28](img/github-header-banner.png)
 
 <!--
 **sihab28/sihab28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
