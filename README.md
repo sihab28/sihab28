@@ -1,4 +1,6 @@
-## Hi there 👋
+## hallo saya sihab 👋
+
+![sihab28](img/sihabpantai.jpg)
 
 <!--
 **sihab28/sihab28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning flutter and java 😁🙌
